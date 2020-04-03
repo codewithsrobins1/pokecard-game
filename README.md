@@ -4,7 +4,7 @@ Pokemon card game that randomly generates 4 pokemon cards. A winner is determine
 
 ## Screenshot
 
-![Game Display]()
+![photo-of-game](https://github.com/codewithsrobins1/pokecard-game/blob/master/image/projectImg.PNG?raw=true)
 
 ### Built With
 
